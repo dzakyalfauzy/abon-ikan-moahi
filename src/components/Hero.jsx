@@ -7,9 +7,9 @@ import { buttonHover, fadeUp } from "@/utils/motion";
 const whatsappLink = "https://wa.me/6285828146411";
 
 const highlights = [
-  { icon: "🛡️", label: "Tanpa Bahan Pengawet" },
-  { icon: "🏅", label: "UMKM Sorowako" },
-  { icon: "🌶️", label: "Rasa Otentik" },
+  { label: "Tanpa Bahan Pengawet" },
+  { label: "UMKM Sorowako" },
+  { label: "Rasa Otentik" },
 ];
 
 export default function Hero() {
@@ -34,7 +34,7 @@ export default function Hero() {
             {...fadeUp}
             viewport={{ once: true }}
           >
-            <span className="text-lg">🍃</span>
+            <span className="text-lg"></span>
             <span>Oleh-Oleh Luwu Timur</span>
           </motion.div>
 
@@ -77,7 +77,7 @@ export default function Hero() {
               className="flex items-center gap-3 rounded-full bg-[#8EF6A0] px-6 py-3 text-base font-semibold text-[#1d1c1c] shadow-md shadow-[#8EF6A0]/40 transition hover:bg-[#79e08b]"
               {...buttonHover}
             >
-              <span className="text-xl">💬</span>
+              <span className="text-xl"></span>
               Pesan Sekarang
             </motion.a>
             <motion.a
