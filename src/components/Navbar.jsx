@@ -15,7 +15,7 @@ const navItems = [
   { label: "Lokasi", href: "#lokasi" },
 ];
 
-const whatsappLink = "https://wa.me/6285242067298";
+const whatsappLink = "https://wa.me/6285828146411";
 
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);

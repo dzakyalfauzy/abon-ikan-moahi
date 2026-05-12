@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import { buttonHover, fadeUp, fadeUpItem, staggerContainer } from "@/utils/motion";
 
-const whatsappLink = "https://wa.me/6285242067298";
+const whatsappLink = "https://wa.me/6285828146411";
 
 const steps = [
   {

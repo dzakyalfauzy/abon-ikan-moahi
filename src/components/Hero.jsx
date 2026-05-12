@@ -4,7 +4,7 @@ import Image from "next/image";
 import { motion } from "framer-motion";
 import { buttonHover, fadeUp } from "@/utils/motion";
 
-const whatsappLink = "https://wa.me/6285242067298";
+const whatsappLink = "https://wa.me/6285828146411";
 
 const highlights = [
   { icon: "🛡️", label: "Tanpa Bahan Pengawet" },

@@ -5,7 +5,7 @@ import { fadeUp, zoomFade } from "@/utils/motion";
 
 const contact = [
   { label: "Alamat", value: "Jl. Agatis C/15 SUMASANG, Sorowako, Kec. Nuha, Kab. Luwu Timur" },
-  { label: "WhatsApp", value: "+62 852-4206-7298" },
+  { label: "WhatsApp", value: "6285828146411" },
   { label: "Email", value: "Emyakbar00@gmail.com" },
   { label: "Jam Operasional", value: "Sen - Sab · 08.00 - 16.00 WITA" },
 ];

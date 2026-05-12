@@ -6,7 +6,7 @@ import { buttonHover, fadeUpItem, staggerContainer } from "@/utils/motion";
 import { fadeUp } from "../utils/motion";
 
 
-const whatsappLink = "https://wa.me/6285242067298";
+const whatsappLink = "https://wa.me/6285828146411";
 
 const products = [
   {

@@ -19,7 +19,7 @@ export default function Footer() {
             </p>
           </div>
           <div className="space-y-1 text-sm text-neutral-200">
-            <p>WhatsApp: +62 852-4206-7298</p>
+            <p>WhatsApp: +6285828146411</p>
             <p>Email: Emyakbar00@gmail.com</p>
             <p>Operasional: Sen - Sab · 08.00 - 16.00 WITA</p>
           </div>
