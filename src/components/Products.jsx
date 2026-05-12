@@ -10,7 +10,7 @@ const whatsappLink = "https://wa.me/6285828146411";
 
 const products = [
   {
-    name: "Abon Ikan Premium",
+    name: "Abon Ikan Moahi",
     desc: "Tekstur lembut, rasa gurih seimbang, cocok untuk lauk, topping, atau camilan.",
     img: "/image/abon_produk1.png",
   },
